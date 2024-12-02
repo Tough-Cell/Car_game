@@ -5,14 +5,18 @@ For players on windows:
 
 install pygame:
 [https://www.pygame.org/news](url)
-`python -m pip install pygame`
+```
+python -m pip install pygame
+```
 
 For players using Linux:
 
 install tkinter:
 
-`yum -y install python3-tkinter.x86_64`
-`yum -y install tk-devel`
+```
+yum -y install python3-tkinter.x86_64
+yum -y install tk-devel
+```
 
 install pygame:
 
